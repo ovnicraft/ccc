@@ -45,3 +45,6 @@
 	path = it-projects-llc/pos-addons
 	url = git@github.com:it-projects-llc/pos-addons.git
 	branch = 10.0
+[submodule "odooec2"]
+	path = odooec2
+	url = git@github.com:ovnicraft/odooec.git

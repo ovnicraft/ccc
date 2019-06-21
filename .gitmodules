@@ -48,3 +48,8 @@
 [submodule "odooec2"]
 	path = odooec2
 	url = git@github.com:ovnicraft/odooec.git
+
+[submodule "OCA/account-payment"]
+	path = OCA/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 10.0

@@ -45,10 +45,6 @@
 	path = it-projects-llc/pos-addons
 	url = git@github.com:it-projects-llc/pos-addons.git
 	branch = 10.0
-[submodule "odooec2"]
-	path = odooec2
-	url = git@github.com:ovnicraft/odooec.git
-
 [submodule "OCA/account-payment"]
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
@@ -58,3 +54,7 @@
 	path = ovnicraft/account-reconcile
 	url = git@github.com:ovnicraft/account-reconcile.git
 	branch = 10.0-imp-bank-reconciliation
+[submodule "prisehub/l10n-ec"]
+	path = prisehub/l10n-ec
+	url = git@github.com:prisehub/l10n-ec.git
+	branch = 10.0
